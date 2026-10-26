@@ -52,7 +52,7 @@ The initial job-role dataset is being prepared. Resume parsing, skill extraction
 This project is being developed as a learning project to gain practical experience in Python, Machine Learning, NLP, and web development.
 
 ## 👨‍💻 Author
-Your Name
+Kunal Jong
 
 ---
 
